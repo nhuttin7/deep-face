@@ -29,5 +29,6 @@ CNN - 10 blocks:
 * CNN need the dataset more popular: Has a lot of pictures represent for each object. Each object needs "good pictures" such as lighting conditions, the position of faces in an image,...
 * If you had good-dataset, you could implement them very well or else you would get a poor-result.
 
-
+## Training process
+[Detail](https://www.floydhub.com/success/projects/face-final/1/)
 
