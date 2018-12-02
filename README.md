@@ -25,8 +25,8 @@ CNN - 10 blocks:
 
 ## ATTENTION!!!
 * The dataset in this project represents only a small part of real-world
-* An accuracy is just a number receive in a perfect environment
-* CNN need the dataset more popular: Has a lot of pictures represent for each object. Each object needs a "good picture"  such as lighting conditions, the position of faces in an image,...
+* An accuracy is just a number receives in a perfect environment
+* CNN need the dataset more popular: Has a lot of pictures represent for each object. Each object needs "good pictures" such as lighting conditions, the position of faces in an image,...
 * If you had good-dataset, you could implement them very well or else you would get a poor-result.
 
 
